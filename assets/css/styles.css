@@ -1,8 +1,21 @@
 /* styles.css */
 
+:root {
+    --clear-blue: #27e5f;
+    
+}
 body {
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+}
+
+h1 {
+      font-family: "Geist Pixel", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "ELSH" 0;
 }
